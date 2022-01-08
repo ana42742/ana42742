@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ananya Srivastava
 - 👀 I’m interested in the various facets of computer science
 - 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me www.linkedin.com/in/ananya-srivastava-9336b4220
 
 <!---
