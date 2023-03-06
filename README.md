@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me www.linkedin.com/in/ananya-srivastava-9336b4220
 
-[## HELLO](https://github.com/scikit-image/scikit-image/blob/main/CONTRIBUTING.rst)
+## [HELLO](https://github.com/scikit-image/scikit-image/blob/main/CONTRIBUTING.rst)
 <!---
 ana42742/ana42742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
