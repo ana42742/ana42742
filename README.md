@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ana42742
-- 👀 I’m interested in exploring the various facets of computer science
-- 🌱 I’m efficient in ML, data analysis and Image Processing. My preferred languages are Python, C++ and Java. I am currently honing my JavaScript skills.
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m a current Outreachy intern and open-source contributor at scikit-image.
+- 🌱 I’m efficient in Image Processing and data science, My preferred languages are Python, C++ and Java and I have worked with various Scientific Python libraries.
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me www.linkedin.com/in/ananya-srivastava-9336b4220
-- 
+
 <!---
 ana42742/ana42742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
